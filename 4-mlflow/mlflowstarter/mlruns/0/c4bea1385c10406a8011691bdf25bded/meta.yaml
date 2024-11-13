@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/c4bea1385c10406a8011691bdf25bded/artifacts
+end_time: 1731453074418
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: c4bea1385c10406a8011691bdf25bded
+run_name: blushing-ox-257
+run_uuid: c4bea1385c10406a8011691bdf25bded
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1731453073957
+status: 3
+tags: []
+user_id: smrut

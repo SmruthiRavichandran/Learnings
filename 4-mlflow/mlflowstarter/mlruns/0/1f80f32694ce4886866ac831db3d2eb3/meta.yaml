@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/1f80f32694ce4886866ac831db3d2eb3/artifacts
+end_time: 1731452685673
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 1f80f32694ce4886866ac831db3d2eb3
+run_name: blushing-hog-302
+run_uuid: 1f80f32694ce4886866ac831db3d2eb3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1731452685456
+status: 3
+tags: []
+user_id: smrut

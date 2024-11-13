@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/e9c98dab81b24c5d95717b02ab19b52f/artifacts
+end_time: 1731450610254
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: e9c98dab81b24c5d95717b02ab19b52f
+run_name: fortunate-swan-65
+run_uuid: e9c98dab81b24c5d95717b02ab19b52f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1731450610106
+status: 4
+tags: []
+user_id: smrut

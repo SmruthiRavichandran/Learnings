@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/771620606934565877/15829f8c249c4e778d963d7a58d6480f/artifacts
+end_time: 1731458374287
+entry_point_name: ''
+experiment_id: '771620606934565877'
+lifecycle_stage: active
+run_id: 15829f8c249c4e778d963d7a58d6480f
+run_name: intelligent-asp-752
+run_uuid: 15829f8c249c4e778d963d7a58d6480f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1731458374166
+status: 4
+tags: []
+user_id: smrut
