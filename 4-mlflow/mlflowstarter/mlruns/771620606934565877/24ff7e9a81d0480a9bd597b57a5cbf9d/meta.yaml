@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/771620606934565877/24ff7e9a81d0480a9bd597b57a5cbf9d/artifacts
+end_time: 1731500939141
+entry_point_name: ''
+experiment_id: '771620606934565877'
+lifecycle_stage: active
+run_id: 24ff7e9a81d0480a9bd597b57a5cbf9d
+run_name: rogue-ant-313
+run_uuid: 24ff7e9a81d0480a9bd597b57a5cbf9d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1731500922459
+status: 3
+tags: []
+user_id: smrut
